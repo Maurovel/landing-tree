@@ -54,7 +54,7 @@ footer{
  
     
     .grid-2{
-        width: 70%;
+        /* width: 70%;*/
         grid-column: .text-center;
         grid-template-columns: 1fr;
         grid-gap: 10px;
