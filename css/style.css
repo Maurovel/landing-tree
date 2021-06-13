@@ -5,7 +5,7 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
-.header::after{
+/*.header::after{
     content: '';
     height: 80vh;
     width: 100%;
@@ -15,7 +15,7 @@ body{
     display: block;
     background-repeat: no-repeat;
     background-position: center;
-}
+}*/
 
 .contaner{
     max-width: 960px;
