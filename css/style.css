@@ -2,7 +2,7 @@ body{
     background-color: black;
     margin: 10%;
     color: aliceblue;
-    /* font-family: 'Lato', sans-serif;*/
+    font-family: 'Lato', sans-serif;
 }
 
 .header::after{
