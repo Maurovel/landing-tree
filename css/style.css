@@ -2,7 +2,7 @@ body{
     background-color: black;
     margin: 10%;
     color: aliceblue;
-    font-family: 'Lato', sans-serif;
+    /* font-family: 'Lato', sans-serif;*/
 }
 
 .header::after{
@@ -42,7 +42,7 @@ footer{
 }
 
 /* RESPONSIVE */
-@media(max-width: 560px){
+@media(max-width: 667px){
     body{
         margin: 2%;
     }
@@ -54,7 +54,7 @@ footer{
  
     
     .grid-2{
-        width: 40%;
+        width: 70%;
         grid-column: .text-center;
         grid-template-columns: 1fr;
         grid-gap: 10px;
