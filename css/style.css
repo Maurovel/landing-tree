@@ -35,6 +35,33 @@ body{
     margin: auto;
 }
 
+.card-title{
+    color: blue;
+   
+}
+
+.card-text{
+    color: black;
+    font-size: medium;
+}
+
+
+.card-text{
+    color: black;
+    font-size: medium;
+}
+.card-detail{
+    color: rgba(3, 0, 0, 0.599);
+    font-size: small;
+}
+.card{
+   color:black;
+}
+
+
+
+
+
 footer{
     background-color: aliceblue;
     color: blue;
