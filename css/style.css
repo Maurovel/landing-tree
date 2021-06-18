@@ -37,6 +37,7 @@ body{
 
 .card-title{
     color: rgba(90, 87, 94, 0.926);
+    text-align: end;
    
 }
 
