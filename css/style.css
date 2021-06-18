@@ -1,7 +1,7 @@
 body{
-    background-color: black;
+    background-color:aliceblue;
     margin: 2%;
-    color: aliceblue;
+    color: black;
     font-family: 'Lato', sans-serif;
 }
 
@@ -36,26 +36,26 @@ body{
 }
 
 .card-title{
-    color: black;
+    color: rgba(90, 87, 94, 0.926);
    
 }
 
 .card-text{
-    color: black;
+    color: rgba(90, 87, 94, 0.926);
     font-size: medium;
 }
 
 
 .card-text{
-    color: black;
+    color: rgba(90, 87, 94, 0.926);
     font-size: medium;
 }
 .card-detail{
-    color: black;
+    color: rgba(90, 87, 94, 0.926);
     font-size: medium;
 }
 .card{
-   color:black;
+   color:rgba(90, 87, 94, 0.926);
 }
 
 
